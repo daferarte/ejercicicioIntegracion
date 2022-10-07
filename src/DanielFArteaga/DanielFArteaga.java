@@ -10,5 +10,8 @@ package DanielFArteaga;
  * @author dafer
  */
 public class DanielFArteaga {
+
+    public DanielFArteaga() {
+    }
     
 }
