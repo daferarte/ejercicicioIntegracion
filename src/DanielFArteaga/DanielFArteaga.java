@@ -11,6 +11,7 @@ package DanielFArteaga;
  */
 public class DanielFArteaga {
 
+    public String saludo; 
     public DanielFArteaga() {
     }
     
